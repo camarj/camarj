@@ -20,6 +20,7 @@
 
 - 🐦 **[x-to-cortex](https://github.com/camarj/x-to-cortex)** — Chrome extension + server local. Captura bookmarks de X, clasifica con Claude Haiku y archiva como Markdown en tu knowledge base.
 - 🎙️ **[webrtc-openai-realtime](https://github.com/camarj/webrtc-openai-realtime)** — Starter kit Next.js + WebRTC + OpenAI Realtime API. Voz en tiempo real con function calling.
+- 📄 **[md-ingest](https://github.com/camarj/md-ingest)** — CLI que convierte cualquier URL en Markdown estructurado con frontmatter. Para Obsidian, knowledge bases y pipelines de IA.
 - 🧠 **cortex** *(próximamente)* — Motor de conocimiento personal con agentes y memoria persistente.
 
 ## Stats
